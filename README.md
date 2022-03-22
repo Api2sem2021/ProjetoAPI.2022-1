@@ -20,7 +20,6 @@
 * [Quem somos](#Quem-Somos)
 * [Proposta](#Proposta)
 * [Backlog do produto](#Backlog-do-produto)
-* [Sitema em desenvolvimento](#Sitema-em-desenvolvimento)
 * [Entregas](#Entregas)
 
 
